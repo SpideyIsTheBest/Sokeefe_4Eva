@@ -1,0 +1,2 @@
+# Sokeefe_4Eva
+New repository based on https://github.com/alystaK/GWC2019game
